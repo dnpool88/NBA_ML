@@ -1,3 +1,8 @@
+###This was a final project created by myself and two peers using data from basketballreference.com. We used Python and Pandas to clean and parse the data to create data visualizations. I specifically focused on using machine learning with scikit-learn to evaluate the importance of different statistics between decades.
+
+
+
+
 # How has the NBA Changed Since 2000?
 
 ## How Draft Picks Success Have Changed Since The Year 2000
