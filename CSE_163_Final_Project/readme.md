@@ -28,9 +28,3 @@ GSW,HOU,IND,LAC,LAL,MEM,MIA,MIL,MIN,
 NOP,NYK,OKC,ORL,PHI,PHO,POR,SAC,SAS,
 TOR,UTA,WAS)
 
-#Link to edstem in case it doesn't work in gradescope
-https://edstem.org/us/courses/16204/workspaces/pVRWbj7OkP1sQM6igy3PHnrYvkcs7IFe
-
-#Link to google doc in case it doesn't work in gradescope
-https://docs.google.com/document/d/16OIpIItE9Rxlt4O7H4UtLIw-pOZe7B6nhAkdEHBVABU/edit#heading=h.kbajxliw74r
-
